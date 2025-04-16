@@ -5,8 +5,8 @@
 
 Accurate cloud classification is essential for effective weather prediction, traditionally requiring manual analysis by meteorologists. **CloudVision** is an automated system designed to classify cloud shapes using a Convolutional Neural Network (CNN) with advanced image preprocessing techniques. By leveraging deep learning, the system aims to reduce the workload of meteorologists and enhance the efficiency and accuracy of cloud classification for weather forecasting.
 
+**Inspired from the research article:** Cloud Shape Classification System Based on Multi-Channel CNN and Improved FDM
 **Authors**: Mengyang Zhao, Chorng Hwa Chang, Wenbin Xie, Zhou Xie, Jinyong Hu  
-**Students**: Ananyaa Kyra Srikanth (21pt01), Shwetha S (21pt24), Sherin J A (21pt28)
 
 ## Objectives
 
