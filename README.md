@@ -91,17 +91,7 @@ To run the CloudVision system, follow these steps:
 3. **Evaluate the model**:
    The script automatically evaluates the model on the validation set during training. To test on new images, modify the code to include an inference pipeline.
 
-## Project Structure
 
-```
-cloudvision/
-│
-├── cloudvision.py          # Main script for training and evaluation
-├── best_cloud_model.pth    # Saved model weights (generated after training)
-├── cloud_dataset/          # Directory for the CCSN dataset
-│   └── cloud_dataset_3/
-└── README.md               # This file
-```
 
 ## Contributing
 
